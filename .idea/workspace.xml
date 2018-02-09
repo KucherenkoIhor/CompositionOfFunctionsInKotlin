@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03aedf23-7dbf-43cc-a60d-ad8207991cde" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="03aedf23-7dbf-43cc-a60d-ad8207991cde" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,13 +28,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="350">
-                <caret line="78" column="132" lean-forward="false" selection-start-line="78" selection-start-column="132" selection-end-line="78" selection-end-column="132" />
+              <first_editor relative-caret-position="242">
+                <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
                 <folding>
-                  <marker date="1518195933872" expanded="true" signature="258:298" ph="{...}" />
-                  <marker date="1518195933872" expanded="true" signature="488:699" ph="{...}" />
-                  <marker date="1518195933872" expanded="true" signature="888:1081" ph="{...}" />
-                  <marker date="1518195933872" expanded="true" signature="1412:1573" ph="{...}" />
+                  <marker date="1518196095377" expanded="true" signature="258:298" ph="{...}" />
+                  <marker date="1518196095377" expanded="true" signature="488:699" ph="{...}" />
+                  <marker date="1518196095377" expanded="true" signature="888:1081" ph="{...}" />
+                  <marker date="1518196095377" expanded="true" signature="1412:1573" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -401,12 +398,12 @@
       <workItem from="1518095070104" duration="2079000" />
       <workItem from="1518097574724" duration="1201000" />
       <workItem from="1518098836412" duration="6466000" />
-      <workItem from="1518159410135" duration="3653000" />
+      <workItem from="1518159410135" duration="3848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13399000" />
+    <option name="totallyTimeSpent" value="13594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
@@ -509,13 +506,13 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="78" column="132" lean-forward="false" selection-start-line="78" selection-start-column="132" selection-end-line="78" selection-end-column="132" />
+          <first_editor relative-caret-position="242">
+            <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
             <folding>
-              <marker date="1518195933872" expanded="true" signature="258:298" ph="{...}" />
-              <marker date="1518195933872" expanded="true" signature="488:699" ph="{...}" />
-              <marker date="1518195933872" expanded="true" signature="888:1081" ph="{...}" />
-              <marker date="1518195933872" expanded="true" signature="1412:1573" ph="{...}" />
+              <marker date="1518196095377" expanded="true" signature="258:298" ph="{...}" />
+              <marker date="1518196095377" expanded="true" signature="488:699" ph="{...}" />
+              <marker date="1518196095377" expanded="true" signature="888:1081" ph="{...}" />
+              <marker date="1518196095377" expanded="true" signature="1412:1573" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
