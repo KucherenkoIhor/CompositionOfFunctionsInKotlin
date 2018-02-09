@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit
 open class MyBenchmark {
 
     @Benchmark
-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
+
     fun firstCase(): Double {
 
         val prices = listOf(3.4, 5.6, 5.6, 3.4, 3.4, 3.4, 5.6, 5.6, 3.4, 3.4)
@@ -21,7 +21,6 @@ open class MyBenchmark {
     }
 
     @Benchmark
-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
     fun secondCase(): Double {
 
         val prices = listOf(3.4, 5.6, 5.6, 3.4, 3.4, 3.4, 5.6, 5.6, 3.4, 3.4)
@@ -34,7 +33,6 @@ open class MyBenchmark {
     }
 
     @Benchmark
-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
     fun thirdCase(): Double {
 
         val prices = listOf(3.4, 5.6, 5.6, 3.4, 3.4, 3.4, 5.6, 5.6, 3.4, 3.4)
@@ -45,7 +43,6 @@ open class MyBenchmark {
     }
 
     @Benchmark
-    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
     fun fourthCase(): Double {
 
         val prices = listOf(3.4, 5.6, 5.6, 3.4, 3.4, 3.4, 5.6, 5.6, 3.4, 3.4)
@@ -59,7 +56,7 @@ open class MyBenchmark {
         funs.reduceRight { acc, function -> { acc(function(it)) } }(x)
     }
 
-    operator fun <P1, R1, R2> ((R1) -> R2).plus(f: (P1) -> R1): (P1) -> R2 {
+    inline operator fun <P1, R1, R2> ((R1) -> R2).plus(crossinline f: (P1) -> R1): (P1) -> R2 {
         return { p1: P1 -> this(f(p1)) }
     }
 
