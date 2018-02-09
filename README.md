@@ -79,8 +79,8 @@ To run benchmarks:
 I added inline and crossinline based on this [suggestion] (https://github.com/KucherenkoIhor/CompositionOfFunctionsInKotlin/issues/1).
 
 #### MyBenchmark.firstCase     399.855 ± 20.951  ns/op
-#### MyBenchmark.secondCase    200  366.027 ± 12.553  ns/op
-#### MyBenchmark.thirdCase     200  190.994 ±  8.581  ns/op
+#### MyBenchmark.secondCase    366.027 ± 12.553  ns/op
+#### MyBenchmark.thirdCase     190.994 ±  8.581  ns/op
     
     
     
