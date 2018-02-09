@@ -4,7 +4,7 @@ This repository contains two implementation of function composition in Kotlin an
 The implementation:
 
 ```Kotlin
-operator fun <P1, R1, R2> ((R1) -> R2).plus(f: (P1) -> R1): (P1) -> R2 {
+inline operator fun <P1, R1, R2> ((R1) -> R2).plus(crossinline f: (P1) -> R1): (P1) -> R2 {
     return { p1: P1 -> this(f(p1)) }
 }
 ```
@@ -74,7 +74,13 @@ To run benchmarks:
    To run the .jar with default benchmarking: ```java -jar target/benchmarks.jar```
 
 
+## Changelog
 
+I added inline and crossinline based on this [suggestion] (https://github.com/KucherenkoIhor/CompositionOfFunctionsInKotlin/issues/1).
+
+#### MyBenchmark.firstCase     399.855 ± 20.951  ns/op
+#### MyBenchmark.secondCase    200  366.027 ± 12.553  ns/op
+#### MyBenchmark.thirdCase     200  190.994 ±  8.581  ns/op
     
     
     
