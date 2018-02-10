@@ -2,11 +2,9 @@
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_jmhType.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_jmhType_B3.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/org/openjdk/jmh/infra/generated/Blackhole_jmhType_B1.java
-/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_fourthCase_jmhTest.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/org/openjdk/jmh/infra/generated/Blackhole_jmhType.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_jmhType_B2.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/org/openjdk/jmh/infra/generated/Blackhole_jmhType_B3.java
-/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_firstCase_jmhTest.java
-/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_thirdCase_jmhTest.java
-/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_secondCase_jmhTest.java
+/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_filteringFirstCase_jmhTest.java
+/Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/com/ik/generated/MyBenchmark_filteringSecondCase_jmhTest.java
 /Users/ihorkucherenko/kotlin_funs_composition/target/generated-sources/jmh/org/openjdk/jmh/infra/generated/Blackhole_jmhType_B2.java

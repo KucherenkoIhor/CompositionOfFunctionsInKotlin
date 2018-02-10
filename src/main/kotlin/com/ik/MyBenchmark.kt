@@ -3,6 +3,26 @@ package com.ik
 import org.openjdk.jmh.annotations.*
 import java.util.concurrent.TimeUnit
 
+class Student(
+        val firstName: String,
+        val secondName: String,
+        val age: Int)
+
+val students = listOf(
+        Student("Jacob", "Smith", 20),
+        Student("Isabella", "Williams", 24),
+        Student("Ava", "Johnson", 19),
+        Student("Anthony", "Taylor", 18),
+        Student("Elijah", "Davis", 17),
+        Student("Daniel", "Moore", 24),
+        Student("Ethan", "Thomas", 30),
+        Student("Elijah", "Jackson", 25),
+        Student("Jacob", "Anderson", 18),
+        Student("Joshua", "Miller", 29),
+        Student("Liam", "Davis", 22)
+)
+
+
 @BenchmarkMode(Mode.AverageTime)
 @OutputTimeUnit(TimeUnit.NANOSECONDS)
 open class MyBenchmark {
@@ -53,6 +73,35 @@ open class MyBenchmark {
         return prices
                 .map(compose(::aid, ::tax, ::discount))
                 .sum()
+    }
+
+    fun ageMoreThan20(student: Student): Boolean = student.age > 20
+
+    fun firstNameStartsWithE(student: Student): Boolean = student.firstName.startsWith("E")
+
+    fun theLengthOfSecondNameMoreThan5(student: Student): Boolean = student.secondName.length > 5
+
+
+    @Benchmark
+    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
+    fun filteringFirstCase(): List<Student> {
+
+        return students
+                .filter(::ageMoreThan20)
+                .filter(::firstNameStartsWithE)
+                .filter(::theLengthOfSecondNameMoreThan5)
+    }
+
+    @Benchmark
+    @CompilerControl(CompilerControl.Mode.DONT_INLINE)
+    fun filteringSecondCase(): List<Student> {
+        return students
+                .filter(::ageMoreThan20 and ::firstNameStartsWithE and ::theLengthOfSecondNameMoreThan5)
+    }
+
+
+    inline infix fun <P> ((P) -> Boolean).and(crossinline predicate: (P) -> Boolean): (P) -> Boolean {
+        return { p: P -> this(p) && predicate(p) }
     }
 
     fun <R> compose(vararg funs: (R) -> R): (R) -> R = { x: R ->

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03aedf23-7dbf-43cc-a60d-ad8207991cde" name="Default" comment="" />
+    <list default="true" id="03aedf23-7dbf-43cc-a60d-ad8207991cde" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt" />
+      <change beforePath="$PROJECT_DIR$/target/benchmarks-1.0.jar" afterPath="$PROJECT_DIR$/target/benchmarks-1.0.jar" />
+      <change beforePath="$PROJECT_DIR$/target/benchmarks.jar" afterPath="$PROJECT_DIR$/target/benchmarks.jar" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" afterPath="$PROJECT_DIR$/target/classes/META-INF/BenchmarkList" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/CompilerHints" afterPath="$PROJECT_DIR$/target/classes/META-INF/CompilerHints" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$compose$1$1$1.class" afterPath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$compose$1$1$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$compose$1.class" afterPath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$compose$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$fourthCase$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$fourthCase$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$fourthCase$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$plus$1.class" afterPath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$plus$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$thirdCase$$inlined$plus$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$thirdCase$$inlined$plus$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark$thirdCase$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark.class" afterPath="$PROJECT_DIR$/target/classes/com/ik/MyBenchmark.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/generated/MyBenchmark_firstCase_jmhTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/generated/MyBenchmark_fourthCase_jmhTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/generated/MyBenchmark_secondCase_jmhTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ik/generated/MyBenchmark_thirdCase_jmhTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jmh/com/ik/generated/MyBenchmark_firstCase_jmhTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jmh/com/ik/generated/MyBenchmark_fourthCase_jmhTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jmh/com/ik/generated/MyBenchmark_secondCase_jmhTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jmh/com/ik/generated/MyBenchmark_thirdCase_jmhTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile-all/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/compile-all/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +45,31 @@
       <file leaf-file-name="MyBenchmark.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-470">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="302">
+              <caret line="105" column="0" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="105" selection-end-column="0" />
               <folding>
                 <element signature="e#16#89#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Collections.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.21/kotlin-stdlib-1.2.21-sources.jar!/generated/_Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="612" column="61" lean-forward="false" selection-start-line="612" selection-start-column="3" selection-end-line="612" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.kt" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.21/kotlin-stdlib-1.2.21-sources.jar!/kotlin/Collections.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -28,13 +78,15 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="242">
-                <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <first_editor relative-caret-position="422">
+                <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
                 <folding>
-                  <marker date="1518196095377" expanded="true" signature="258:298" ph="{...}" />
-                  <marker date="1518196095377" expanded="true" signature="488:699" ph="{...}" />
-                  <marker date="1518196095377" expanded="true" signature="888:1081" ph="{...}" />
-                  <marker date="1518196095377" expanded="true" signature="1412:1573" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="258:298" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="488:699" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="888:1081" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="1412:1573" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="2609:2733" ph="{...}" />
+                  <marker date="1518268091855" expanded="true" signature="2832:2882" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -47,17 +99,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBenchmark.decompiled.java" pinned="false" current-in-tab="false">
-        <entry file="dummy://kotlinDecompiled/MyBenchmark.decompiled.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3228">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1516643243590" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1516643243590" expanded="false" signature="151:304" ph="..." />
+                <marker date="1516643243590" expanded="true" signature="306:414" ph="@{...}" />
+                <marker date="1516643243590" expanded="true" signature="514:898" ph="{...}" />
+                <marker date="1516643243590" expanded="false" signature="766:781" ph=" { " />
+                <marker date="1516643243590" expanded="false" signature="804:814" ph=" }" />
+                <marker date="1516643243590" expanded="false" signature="847:862" ph=" { " />
+                <marker date="1516643243590" expanded="false" signature="882:892" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,13 +182,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
               <item name="kotlin_funs_composition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_funs_composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_funs_composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_funs_composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_funs_composition" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="ik" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin_funs_composition" type="b2602c69:ProjectViewProjectNode" />
@@ -148,8 +224,9 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,116 +247,6 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -292,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jmh.MyBenchmark.testMethod">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -332,6 +299,18 @@
       </option>
       <envs />
       <patterns />
+    </configuration>
+    <configuration name="com.ik.MyBenchmarkKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ik.MyBenchmarkKt" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="benchmarks" />
+      <envs />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -376,6 +355,10 @@
     <configuration name="MyBenchmark.testMethod" type="jmh-id" factoryName="Jmh" temporary="true" program-parameters="com.ik.MyBenchmark.testMethod" working-dir="$PROJECT_DIR$" benchmark-type="METHOD" benchmark-class="com.ik.MyBenchmark">
       <module name="kotlin_funs_composition" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Jmh.MyBenchmark.testMethod" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.com.ik.MyBenchmarkKt" />
+    </list>
     <recent_temporary>
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Jmh.MyBenchmark.testMethod" />
@@ -398,12 +381,13 @@
       <workItem from="1518095070104" duration="2079000" />
       <workItem from="1518097574724" duration="1201000" />
       <workItem from="1518098836412" duration="6466000" />
-      <workItem from="1518159410135" duration="3848000" />
+      <workItem from="1518159410135" duration="4529000" />
+      <workItem from="1518247138336" duration="12082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13594000" />
+    <option name="totallyTimeSpent" value="26357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
@@ -411,18 +395,19 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25885227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26190478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -434,7 +419,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -450,6 +434,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#16#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1125">
+            <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <folding>
+              <marker date="1518268091855" expanded="true" signature="258:298" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="488:699" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="888:1081" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="1412:1573" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="2609:2733" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="2832:2882" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.21/kotlin-stdlib-1.2.21.jar!/kotlin/collections/CollectionsKt.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5385">
+          <caret line="359" column="56" lean-forward="false" selection-start-line="359" selection-start-column="56" selection-end-line="359" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -489,14 +517,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <marker date="1516643243590" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1516643243590" expanded="false" signature="151:304" ph="..." />
+            <marker date="1516643243590" expanded="true" signature="306:414" ph="@{...}" />
+            <marker date="1516643243590" expanded="true" signature="514:898" ph="{...}" />
+            <marker date="1516643243590" expanded="false" signature="766:781" ph=" { " />
+            <marker date="1516643243590" expanded="false" signature="804:814" ph=" }" />
+            <marker date="1516643243590" expanded="false" signature="847:862" ph=" { " />
+            <marker date="1516643243590" expanded="false" signature="882:892" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.21/kotlin-stdlib-1.2.21-sources.jar!/kotlin/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/jmh/com/ik/generated/MyBenchmark_thirdCase_jmhTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-665">
+          <caret line="62" column="55" lean-forward="false" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.2.21/kotlin-stdlib-1.2.21-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="612" column="61" lean-forward="false" selection-start-line="612" selection-start-column="3" selection-end-line="612" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/ik/MyBenchmark.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-470">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="302">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="105" selection-end-column="0" />
           <folding>
             <element signature="e#16#89#0" expanded="true" />
           </folding>
@@ -506,13 +567,15 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="242">
-            <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <first_editor relative-caret-position="422">
+            <caret line="100" column="5" lean-forward="false" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
             <folding>
-              <marker date="1518196095377" expanded="true" signature="258:298" ph="{...}" />
-              <marker date="1518196095377" expanded="true" signature="488:699" ph="{...}" />
-              <marker date="1518196095377" expanded="true" signature="888:1081" ph="{...}" />
-              <marker date="1518196095377" expanded="true" signature="1412:1573" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="258:298" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="488:699" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="888:1081" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="1412:1573" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="2609:2733" ph="{...}" />
+              <marker date="1518268091855" expanded="true" signature="2832:2882" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

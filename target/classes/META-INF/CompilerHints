@@ -3,8 +3,6 @@ dontinline,*.*_avgt_jmhStub
 dontinline,*.*_sample_jmhStub
 dontinline,*.*_ss_jmhStub
 dontinline,*.*_thrpt_jmhStub
-dontinline,com/ik/MyBenchmark.firstCase
-dontinline,com/ik/MyBenchmark.fourthCase
-dontinline,com/ik/MyBenchmark.secondCase
-dontinline,com/ik/MyBenchmark.thirdCase
+dontinline,com/ik/MyBenchmark.filteringFirstCase
+dontinline,com/ik/MyBenchmark.filteringSecondCase
 inline,org/openjdk/jmh/infra/Blackhole.clearSinks

@@ -76,11 +76,33 @@ To run benchmarks:
 
 ## Changelog
 
-I added inline and crossinline based on this [suggestion] (https://github.com/KucherenkoIhor/CompositionOfFunctionsInKotlin/issues/1).
+Added inline and crossinline based on this [suggestion] (https://github.com/KucherenkoIhor/CompositionOfFunctionsInKotlin/issues/1).
 
 #### MyBenchmark.firstCase     399.855 ± 20.951  ns/op
 #### MyBenchmark.secondCase    200  366.027 ± 12.553  ns/op
 #### MyBenchmark.thirdCase     200  190.994 ±  8.581  ns/op
+
+Added function to combine predicates:
+
+```Kotlin
+@Benchmark
+@CompilerControl(CompilerControl.Mode.DONT_INLINE)
+fun filteringSecondCase(): List<Student> {
+    return students
+            .filter(::ageMoreThan20 and ::firstNameStartsWithE and ::theLengthOfSecondNameMoreThan5)
+}
+
+inline infix fun <P> ((P) -> Boolean).and(crossinline predicate: (P) -> Boolean): (P) -> Boolean {
+    return { p: P -> this(p) && predicate(p) }
+}
+```
+
+#### MyBenchmark.filteringFirstCase     172.909 ± 2.238  ns/op
+#### MyBenchmark.filteringSecondCase    115.346 ± 1.488  ns/op
+
+
+
+
     
     
     
